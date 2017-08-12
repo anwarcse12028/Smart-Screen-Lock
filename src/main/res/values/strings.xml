@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Screen Lock</string>
+    <string name="title_activity_launcher">LauncherActivity</string>
+    <string name="pattern_text">Please draw a new pattern</string>
+    <string name="pattern_text_again">Please draw the pattern again</string>
+    <string name="pattern_text_drawpattern">Draw Pattern</string>
+    <string name="btn_contininue">Continue</string>
+    <string name="btn_reset">Reset</string>
+    <string name="btn_confirm">Confirm</string>
+    <string name="btn_ok">Ok</string>
+
+</resources>

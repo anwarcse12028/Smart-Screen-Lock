@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="1"
+        app:showAsAction="never"
+        android:title="Settings"/>
+
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="2"
+        app:showAsAction="never"
+        android:title="About"/>
+    <item
+        android:id="@+id/action_exit"
+        android:orderInCategory="3"
+        app:showAsAction="never"
+        android:title="Exit"/>
+
+</menu>
